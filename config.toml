@@ -1,4 +1,4 @@
-baseURL = "http://estudiofede.org/"
+baseURL = "https://estudiofede.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
