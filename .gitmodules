@@ -1,5 +1,5 @@
-[submodule "themes/kross"]
-	path = themes/kross
+[submodule "themes/kross-hugo"]
+	path = themes/kross-hugo
 	url = https://github.com/themefisher/kross-hugo.git
 [submodule "themes/ananke"]
 	path = themes/ananke
