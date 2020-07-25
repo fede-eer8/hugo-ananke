@@ -18,6 +18,5 @@ el_tema_de_hoy: |-
 
   yy
 oligarcs: ''
-draft: true
 
 ---
