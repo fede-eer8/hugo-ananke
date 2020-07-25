@@ -37,5 +37,6 @@ fields:
   hidden: false
 pages:
 - content/Hello World/fd.md
+- content/Hello World/gh.md
 - content/gs.md
 - content/posts/sa.md
