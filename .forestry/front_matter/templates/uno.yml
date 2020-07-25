@@ -11,6 +11,16 @@ fields:
     min: 
     max: 
   description: Estoy listo
+- name: el_tema_de_hoy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: El tema de hoy
+  description: Veamos algo nuevo
 pages:
 - content/Hello World/fd.md
 - content/gs.md
