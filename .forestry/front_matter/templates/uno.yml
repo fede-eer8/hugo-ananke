@@ -1,4 +1,13 @@
 ---
 label: uno
 hide_body: true
-fields: []
+fields:
+- name: hello_world
+  type: blocks
+  label: Hello World
+  template_types:
+  - uno
+  config:
+    min: 
+    max: 
+  description: Estoy listo
