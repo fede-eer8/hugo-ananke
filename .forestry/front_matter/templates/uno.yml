@@ -3,38 +3,21 @@ label: uno
 hide_body: false
 display_field: el_tema_de_hoy
 fields:
-- name: holaaaa
+- name: title
   type: text
   config:
     required: false
-  label: Holaaaa
-  description: dsa
-- name: hello_world
-  type: blocks
-  label: Hello World
-  template_types:
-  - uno
-  config:
-    min: 
-    max: 
-  description: Estoy listo
-- name: el_tema_de_hoy
+  label: title
+  description: titulo
+- name: description
   type: textarea
   default: ''
   config:
     required: false
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
-  label: El tema de hoy
-  description: Veamos algo nuevo
-- name: oligarcs
-  type: text
-  config:
-    required: false
-  label: Oligarcs
-  description: Sali
-  hidden: false
+  label: description
 pages:
 - content/Hello World/fd.md
 - content/Hello World/gh.md
