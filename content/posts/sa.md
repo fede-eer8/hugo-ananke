@@ -4,6 +4,5 @@ hello_world:
   hello_world: []
   el_tema_de_hoy: ''
 el_tema_de_hoy: hola mundo
-draft: true
 
 ---
