@@ -11,3 +11,5 @@ fields:
     min: 
     max: 
   description: Estoy listo
+pages:
+- content/gs.md
