@@ -1,6 +1,6 @@
 ---
 label: uno
-hide_body: true
+hide_body: false
 display_field: el_tema_de_hoy
 fields:
 - name: holaaaa
