@@ -17,7 +17,7 @@ fields:
     required: false
     date_format: 
     time_format: 
-    display_utc: true
+    display_utc: false
 - name: description
   type: textarea
   default: ''
