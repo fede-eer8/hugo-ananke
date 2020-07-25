@@ -1,6 +1,8 @@
 ---
 hello_world:
 - template: uno
-  hello_world: []
+  hello_world:
+  - template: uno
+    hello_world: []
 
 ---
