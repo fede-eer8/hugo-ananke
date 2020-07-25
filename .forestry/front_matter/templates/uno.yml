@@ -9,6 +9,15 @@ fields:
     required: false
   label: title
   description: titulo
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: true
 - name: description
   type: textarea
   default: ''
