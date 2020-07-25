@@ -1,6 +1,7 @@
 ---
 label: uno
 hide_body: true
+display_field: el_tema_de_hoy
 fields:
 - name: hello_world
   type: blocks
@@ -21,6 +22,13 @@ fields:
       format: markdown
   label: El tema de hoy
   description: Veamos algo nuevo
+- name: oligarcs
+  type: text
+  config:
+    required: false
+  label: Oligarcs
+  description: Sali
+  hidden: false
 pages:
 - content/Hello World/fd.md
 - content/gs.md
