@@ -12,4 +12,5 @@ fields:
     max: 
   description: Estoy listo
 pages:
+- content/Hello World/fd.md
 - content/gs.md
