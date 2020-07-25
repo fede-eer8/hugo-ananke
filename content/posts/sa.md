@@ -1,10 +1,8 @@
 ---
-hello_world:
-- template: uno
-  hello_world: []
-  el_tema_de_hoy: ''
-  oligarcs: ''
+hello_world: []
 el_tema_de_hoy: hola mundo
 oligarcs: Mundiales
+holaaaa: ''
 
 ---
+hello worlds
